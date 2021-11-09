@@ -1,0 +1,7 @@
+@import 'tailwindcss/components';
+
+@layer components {
+    .sb-component-button {
+        @apply border-4;
+    }
+}
